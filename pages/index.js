@@ -52,7 +52,7 @@ export default function Home() {
           <h4>Example:</h4>
           <div id='examples'>
             <p><span><b>Verb: </b></span>meinen</p>
-            <p><span><b>Noun: </b></span>Die Geschichte ~ Die Geschichte</p>
+            <p><span><b>Noun: </b></span>Die Geschichte ~ Die Geschichten</p>
             <p><span><b>Possible sentence: </b></span>Was meinen Sie mit dieser Geschichte?</p>
           </div>
           <h4>References: </h4>
