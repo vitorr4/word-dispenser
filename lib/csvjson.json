@@ -1,0 +1,402 @@
+[
+  {
+    "verbs": "sein",
+    "nouns": "Die Zeit ~ Die Zeiten"
+  },
+  {
+    "verbs": "haben",
+    "nouns": "Der Man ~ Die Männer"
+  },
+  {
+    "verbs": "werden",
+    "nouns": "Die Hand ~ Die Hände"
+  },
+  {
+    "verbs": "können",
+    "nouns": "Der Tag ~ Die Tagen"
+  },
+  {
+    "verbs": "müssen",
+    "nouns": "Der Weg ~ Die Wege"
+  },
+  {
+    "verbs": "sagen",
+    "nouns": "Das Auge ~ Die Augen"
+  },
+  {
+    "verbs": "machen",
+    "nouns": "Das Ding ~ Die Dinge"
+  },
+  {
+    "verbs": "geben",
+    "nouns": "Der Kopf ~ Die Köpfe"
+  },
+  {
+    "verbs": "kommen",
+    "nouns": "Das Jahr ~ Die Jahre"
+  },
+  {
+    "verbs": "sollen",
+    "nouns": "Die Raum ~ Die Räume"
+  },
+  {
+    "verbs": "wollen",
+    "nouns": "Die Tür ~ Die Türen"
+  },
+  {
+    "verbs": "gehen",
+    "nouns": "Die Frau ~ Die Frauen"
+  },
+  {
+    "verbs": "wissen",
+    "nouns": "Das Gesicht ~ Die Gesichter"
+  },
+  {
+    "verbs": "sehen",
+    "nouns": "Die Mutter ~ Die Mütter"
+  },
+  {
+    "verbs": "lassen",
+    "nouns": "Das Volk ~ Die Völker"
+  },
+  {
+    "verbs": "stehen",
+    "nouns": "Die Nacht ~ Die Nächte"
+  },
+  {
+    "verbs": "finden",
+    "nouns": "Das Haus ~ Die Häuser"
+  },
+  {
+    "verbs": "bleiben",
+    "nouns": "Der Vater ~ Die Väter"
+  },
+  {
+    "verbs": "liegen",
+    "nouns": "Das Leben ~ Die Leben"
+  },
+  {
+    "verbs": "heißen",
+    "nouns": "Der Rücken ~ Die Rücken"
+  },
+  {
+    "verbs": "denken",
+    "nouns": "Die Stimme ~ Die Stimmen"
+  },
+  {
+    "verbs": "nehmen",
+    "nouns": "Das Mädchen ~ Die Mädchen"
+  },
+  {
+    "verbs": "tun",
+    "nouns": "Der Ort ~ Die Orte"
+  },
+  {
+    "verbs": "dürfen",
+    "nouns": "Der Junge ~ Die Jungen"
+  },
+  {
+    "verbs": "glauben",
+    "nouns": "Das Auto ~ Die Autos"
+  },
+  {
+    "verbs": "halten",
+    "nouns": "Die Seite ~ Die Seiten"
+  },
+  {
+    "verbs": "nennen",
+    "nouns": "Der Arm ~ Die Arme"
+  },
+  {
+    "verbs": "mögen",
+    "nouns": "Das Kind ~ Die Kinder"
+  },
+  {
+    "verbs": "zeigen",
+    "nouns": "Das Wort ~ Die Worte"
+  },
+  {
+    "verbs": "führen",
+    "nouns": "Der Moment ~ Die Momente"
+  },
+  {
+    "verbs": "sprechen",
+    "nouns": "Das Haar ~ Die Haare"
+  },
+  {
+    "verbs": "bringen",
+    "nouns": "Der Fuß ~ Die Füße"
+  },
+  {
+    "verbs": "leben",
+    "nouns": "Das Wasser ~ Die Wasser"
+  },
+  {
+    "verbs": "fahren",
+    "nouns": "Das Licht ~ Die Lichter"
+  },
+  {
+    "verbs": "meinen",
+    "nouns": "Die Welt ~ Die Welt"
+  },
+  {
+    "verbs": "fragen",
+    "nouns": "Der Name ~ Die Namen"
+  },
+  {
+    "verbs": "kennen",
+    "nouns": "Der Freund ~ Die Freunde"
+  },
+  {
+    "verbs": "gelten",
+    "nouns": "Das Fenster ~ Die Fenster"
+  },
+  {
+    "verbs": "stellen",
+    "nouns": "Der Körper ~ Die Körper"
+  },
+  {
+    "verbs": "spielen",
+    "nouns": "Der Tisch ~ Die Tabellen"
+  },
+  {
+    "verbs": "arbeiten",
+    "nouns": "Der Morgen ~ Die Morgen"
+  },
+  {
+    "verbs": "brauchen",
+    "nouns": "Das Bett ~ Die Betten"
+  },
+  {
+    "verbs": "folgen",
+    "nouns": "Die Mauer ~ Die Wände"
+  },
+  {
+    "verbs": "lernen",
+    "nouns": "Die Straße ~ Die Straßen"
+  },
+  {
+    "verbs": "bestehen",
+    "nouns": "Die Schule ~ Die Schulen"
+  },
+  {
+    "verbs": "verstehen",
+    "nouns": "Die Luft ~ Die Lüfte"
+  },
+  {
+    "verbs": "setzen",
+    "nouns": "Der Boden ~ Die Böden"
+  },
+  {
+    "verbs": "bekommen",
+    "nouns": "Die Stunde ~ Die Stunden"
+  },
+  {
+    "verbs": "beginnen",
+    "nouns": "Das Ende ~ Die Enden"
+  },
+  {
+    "verbs": "erzählen",
+    "nouns": "Die Familie ~ Die Familien"
+  },
+  {
+    "verbs": "versuchen",
+    "nouns": "Der Kerl ~ Die Kerle"
+  },
+  {
+    "verbs": "schreiben",
+    "nouns": "Die Art ~ Die Arten"
+  },
+  {
+    "verbs": "laufen",
+    "nouns": "Die Minute ~ Die Minuten"
+  },
+  {
+    "verbs": "erklären",
+    "nouns": "Die Geschichte ~ Die Geschichten"
+  },
+  {
+    "verbs": "entsprechen",
+    "nouns": "Der Gott ~ Die Götter"
+  },
+  {
+    "verbs": "sitzen",
+    "nouns": "Die Woche ~ Die Wochen"
+  },
+  {
+    "verbs": "ziehen",
+    "nouns": "Die Arbeit ~ Die Werke"
+  },
+  {
+    "verbs": "scheinen",
+    "nouns": "Die Schulter ~ Die Schultern"
+  },
+  {
+    "verbs": "fallen",
+    "nouns": "Der Teil ~ Die Teile"
+  },
+  {
+    "verbs": "gehören",
+    "nouns": "Der Geist ~ Die Gemüter"
+  },
+  {
+    "verbs": "entstehen",
+    "nouns": "Das Buch ~ Die Bücher"
+  },
+  {
+    "verbs": "erhalten",
+    "nouns": "Der Finger ~ Die Finger"
+  },
+  {
+    "verbs": "treffen",
+    "nouns": "Der Mund ~ Die Mündungen"
+  },
+  {
+    "verbs": "suchen",
+    "nouns": "Das Kind ~ Die Kinder"
+  },
+  {
+    "verbs": "legen",
+    "nouns": "Das Glas ~ Die Brille"
+  },
+  {
+    "verbs": "vorstellen",
+    "nouns": "Der Baum ~ Die Bäume"
+  },
+  {
+    "verbs": "handeln",
+    "nouns": "Der Klang ~ Die Geräusche"
+  },
+  {
+    "verbs": "erreichen",
+    "nouns": "Die Linie ~ Die Linien"
+  },
+  {
+    "verbs": "tragen",
+    "nouns": "Die Ehefrau ~ Die Ehefrauen"
+  },
+  {
+    "verbs": "schaffen",
+    "nouns": "Das Herz ~ Die Herzen"
+  },
+  {
+    "verbs": "lesen",
+    "nouns": "Das Geld ~ Die Gelder"
+  },
+  {
+    "verbs": "verlieren",
+    "nouns": "Das Telefon ~ Die Telefone"
+  },
+  {
+    "verbs": "darstellen",
+    "nouns": "Das Aussehen ~ Die Blicke"
+  },
+  {
+    "verbs": "erkennen",
+    "nouns": "Das Bein ~ Die Beine"
+  },
+  {
+    "verbs": "entwickeln",
+    "nouns": "Der Stuhl ~ Die Stühle"
+  },
+  {
+    "verbs": "reden",
+    "nouns": "Das Büro ~ Die Büros"
+  },
+  {
+    "verbs": "aus·sehen",
+    "nouns": "Der Bruder ~ Die Brüder"
+  },
+  {
+    "verbs": "erscheinen",
+    "nouns": "Die Frage ~ Die Fragen"
+  },
+  {
+    "verbs": "bilden",
+    "nouns": "Die Stadt ~ Die Städte"
+  },
+  {
+    "verbs": "anfangen",
+    "nouns": "Der Monat ~ Die Monate"
+  },
+  {
+    "verbs": "erwarten",
+    "nouns": "Das Baby ~ Die Babys"
+  },
+  {
+    "verbs": "wohnen",
+    "nouns": "Das Zuhause ~ Die Häuser"
+  },
+  {
+    "verbs": "betreffen",
+    "nouns": "Der Hund ~ Die Hunde"
+  },
+  {
+    "verbs": "warten",
+    "nouns": "Die Straße ~ Die Straßen"
+  },
+  {
+    "verbs": "vergehen",
+    "nouns": "Die Idee ~ Die Ideen"
+  },
+  {
+    "verbs": "helfen",
+    "nouns": "Die Küche ~ Die Küchen"
+  },
+  {
+    "verbs": "gewinnen",
+    "nouns": "Das Los ~ Die Lose"
+  },
+  {
+    "verbs": "schließen",
+    "nouns": "Der Sohn ~ Die Söhne"
+  },
+  {
+    "verbs": "fühlen",
+    "nouns": "Der Beruf ~ Die Jobs"
+  },
+  {
+    "verbs": "bieten",
+    "nouns": "Das Papier ~ Die Papiere"
+  },
+  {
+    "verbs": "interessieren",
+    "nouns": "Die Schwester ~ Die Schwestern"
+  },
+  {
+    "verbs": "erinnern",
+    "nouns": "Das Lächeln ~ Die Lächeln"
+  },
+  {
+    "verbs": "ergeben",
+    "nouns": "Der Punkt ~ Die Punkte"
+  },
+  {
+    "verbs": "anbieten",
+    "nouns": "Der Gedanke ~ Die Gedanken"
+  },
+  {
+    "verbs": "studieren",
+    "nouns": "Die Liebe ~ Die Liebe"
+  },
+  {
+    "verbs": "verbinden",
+    "nouns": "Die Stadt ~ Die Städte"
+  },
+  {
+    "verbs": "ansehen",
+    "nouns": "Der Tod ~ Die Todesfälle"
+  },
+  {
+    "verbs": "fehlen",
+    "nouns": "Der Boden ~ Die Gründe"
+  },
+  {
+    "verbs": "bedeuten",
+    "nouns": "Die Anderen ~ Die Anderen"
+  },
+  {
+    "verbs": "vergleichen",
+    "nouns": "Das Feuer ~ Die Feuer"
+  }
+]
